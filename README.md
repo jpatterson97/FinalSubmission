@@ -1,6 +1,6 @@
 # Final Submission
 
-Included in this Zip file is:
+Included in this Zip file are:
 
 1. All of the items listed below for hardcopy submission (.pdf)
    - Requirements document
@@ -11,7 +11,7 @@ Included in this Zip file is:
    - Press release
    - Poster
    - Status reports (14)
-   - Short description of what new knowledge (so, skills, tools, etc.) that you learned to complete your project and how you learned them
+   - Short description of what new knowledge we have learned
    - Microsoft/Cyberweb Drag Race document
    
 2. Final presentation video (demo.mp4)
